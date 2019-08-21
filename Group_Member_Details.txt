@@ -1,0 +1,7 @@
+Group 1 --> Mayank, Anamika, Kiran
+Group 2 --> Rishabh, Samarth, Malavika
+Group 3 --> Sanchit, Nirupam, Rachita
+Group 4 --> Kavipriya, Arijith, Apoorva
+Group 5 --> Sindu, Dhanalakshmi, Madan 
+Group 6 --> Shriyas, Bhaskar
+Group 7 --> Dixita, Beulah
